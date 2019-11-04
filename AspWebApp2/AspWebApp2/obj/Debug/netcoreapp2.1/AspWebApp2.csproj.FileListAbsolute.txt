@@ -1,0 +1,14 @@
+C:\Practice\asp-dot-net\AspWebApp2\AspWebApp2\bin\Debug\netcoreapp2.1\AspWebApp2.deps.json
+C:\Practice\asp-dot-net\AspWebApp2\AspWebApp2\bin\Debug\netcoreapp2.1\AspWebApp2.runtimeconfig.json
+C:\Practice\asp-dot-net\AspWebApp2\AspWebApp2\bin\Debug\netcoreapp2.1\AspWebApp2.runtimeconfig.dev.json
+C:\Practice\asp-dot-net\AspWebApp2\AspWebApp2\bin\Debug\netcoreapp2.1\AspWebApp2.dll
+C:\Practice\asp-dot-net\AspWebApp2\AspWebApp2\bin\Debug\netcoreapp2.1\AspWebApp2.pdb
+C:\Practice\asp-dot-net\AspWebApp2\AspWebApp2\obj\Debug\netcoreapp2.1\AspWebApp2.csprojAssemblyReference.cache
+C:\Practice\asp-dot-net\AspWebApp2\AspWebApp2\obj\Debug\netcoreapp2.1\AspWebApp2.csproj.CoreCompileInputs.cache
+C:\Practice\asp-dot-net\AspWebApp2\AspWebApp2\obj\Debug\netcoreapp2.1\AspWebApp2.RazorAssemblyInfo.cache
+C:\Practice\asp-dot-net\AspWebApp2\AspWebApp2\obj\Debug\netcoreapp2.1\AspWebApp2.RazorAssemblyInfo.cs
+C:\Practice\asp-dot-net\AspWebApp2\AspWebApp2\obj\Debug\netcoreapp2.1\AspWebApp2.AssemblyInfoInputs.cache
+C:\Practice\asp-dot-net\AspWebApp2\AspWebApp2\obj\Debug\netcoreapp2.1\AspWebApp2.AssemblyInfo.cs
+C:\Practice\asp-dot-net\AspWebApp2\AspWebApp2\obj\Debug\netcoreapp2.1\AspWebApp2.RazorTargetAssemblyInfo.cache
+C:\Practice\asp-dot-net\AspWebApp2\AspWebApp2\obj\Debug\netcoreapp2.1\AspWebApp2.dll
+C:\Practice\asp-dot-net\AspWebApp2\AspWebApp2\obj\Debug\netcoreapp2.1\AspWebApp2.pdb
